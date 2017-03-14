@@ -1,0 +1,133 @@
+[
+    {
+        "title": "Loud",
+        "artist": "Rihanna",
+        "image": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/d\/d1\/Rihanna_-_Loud.png",
+        "released": "November 12, 2010",
+        "genre": "Dance-pop R&B",
+        "length": "46:39",
+        "label": "Def Jam SRP",
+        "price": "Php 470.00",
+        "stock": "50"
+    },
+    {
+        "title": "Views",
+        "artist": "Drake",
+        "image": "http:\/\/static1.squarespace.com\/static\/54d951cbe4b0af07ca29dae7\/54dbd0a8e4b08e4c6f4c4ea4\/56a53d6ee0327cd3ef62a742\/1453669746499\/views+glass+final.png?format=1500w",
+        "released": "April 29, 2016",
+        "genre": "R&B hip hop dancehall",
+        "length": "81:15",
+        "label": "Young Money Cash Money Republic",
+        "price": "Php 470.00",
+        "stock": "123"
+    },
+    {
+        "title": "This is Acting",
+        "artist": "Sia Fuller",
+        "image": "http:\/\/www.slantmagazine.com\/assets\/music\/25484\/thisisacting.jpg",
+        "released": "29 January 2016",
+        "genre": "French house garage disco",
+        "length": "46:32",
+        "label": "Inertia Monkey Puzzle RCA",
+        "price": "Php 495.99",
+        "stock": "23"
+    },
+    {
+        "title": "Purpose",
+        "artist": "Justine Beiber",
+        "image": "http:\/\/www.billboard.com\/files\/media\/justin-bieber-purpose-cover-2015-billboard-650.jpg",
+        "released": "November 13, 2015",
+        "genre": "Dance-pop R&B soul EDM",
+        "length": "48:13",
+        "label": "RBMG Def Jam",
+        "price": "Php 499.50",
+        "stock": "95"
+    },
+    {
+        "title": "Joanne",
+        "artist": "Lady Gaga",
+        "image": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/61KQ6yHZ4pL._SL1400_.jpg",
+        "released": "October 21, 2016",
+        "genre": "Soft rock dance-pop",
+        "length": "39:05",
+        "label": "Streamline Interscope",
+        "price": "Php 500",
+        "stock": "54"
+    },
+    {
+        "title": "Rise",
+        "artist": "Katy Perry",
+        "image": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/70\/Katy_Perry_-_Rise_(Official_Single_Cover).png",
+        "released": "July 14, 2016",
+        "genre": "Electronic",
+        "length": "3:23",
+        "label": "Capitol",
+        "price": "Php 249.50",
+        "stock": "80"
+    },
+    {
+        "title": "Dangerous Woman",
+        "artist": "Ariana Grande",
+        "image": "http:\/\/www.josepvinaixa.com\/blog\/wp-content\/uploads\/2016\/04\/Ariana-Grande-Dangerous-Woman-Deluxe-2016.jpg",
+        "released": "May 20, 2016",
+        "genre": "Pop R&B",
+        "length": "39:31",
+        "label": "Republic",
+        "price": "Php 449.50",
+        "stock": "180"
+    },
+    {
+        "title": "Encore",
+        "artist": "Eminem",
+        "image": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/71xlZwV1zvL._SL1200_.jpg",
+        "released": "November 12, 2004",
+        "genre": "Hip hop",
+        "length": "\t77:06",
+        "label": "Aftermath, Shady, Interscope, Goliath",
+        "price": "Php 380.99",
+        "stock": "145"
+    },
+    {
+        "title": "25",
+        "artist": "Adele Atkins",
+        "image": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Adele_-_25_(Official_Album_Cover).png",
+        "released": "20 November 2015",
+        "genre": "Soul pop R&B",
+        "length": "48:25",
+        "label": "XL Columbia",
+        "price": "Php 499.99",
+        "stock": "14"
+    },
+    {
+        "title": "Lemonade",
+        "artist": "Beyonce Knowles",
+        "image": "http:\/\/images.genius.com\/33238a0dbe6470fde82c5fea51ff69e2.1000x1000x1.jpg",
+        "released": "April 23, 2016",
+        "genre": "R&B",
+        "length": "45:49",
+        "label": "Parkwood Columbia",
+        "price": "Php 899.99",
+        "stock": "89"
+    },
+    {
+        "title": "Illuminate",
+        "artist": "Shawn Mendes",
+        "image": "http:\/\/cdn.hercampus.com\/s3fs-public\/2016\/09\/30\/shawnmendes_illuminate_standardcover.jpg",
+        "released": "September 23, 2016",
+        "genre": "Blues pop rock",
+        "length": "41:15",
+        "label": "Island Universal",
+        "price": "Php 899.99",
+        "stock": "89"
+    },
+    {
+        "image": "dfbhfdd",
+        "title": "dfhdfhdf",
+        "artist": "hfdhfdhdf",
+        "released": "hfdhdfh",
+        "genre": "dfhfdhfd",
+        "length": "hfdhdfhdf",
+        "label": "hfdhfdh",
+        "price": "dfhfdhfdh"
+    }
+]

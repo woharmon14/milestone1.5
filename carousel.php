@@ -1,0 +1,121 @@
+<?php
+session_start();
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+  		<meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+        <meta charset="utf-8">
+        <title>Template</title>
+        <meta name="generator" content="Bootply">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="description" content="A Bootstrap carousel example with centered form">
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
+  		<link rel="stylesheet" type="text/css" href="freshcss.css">
+  	
+</head>
+<body>
+
+<div class="container-fluid" >
+<!-- Header -->
+<!-- Section -->
+<div class="row" >
+	
+	<div class="col-12 home">
+		<!-- Carousel
+================================================== -->
+<div id="myCarousel" class="carousel slide">
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="images/gh2.jpg">
+      <div class="container">
+        <div class="carousel-caption">
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="images/gh1.jpg">
+      <div class="container">
+        <div class="carousel-caption">
+          
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="images/gh3.jpg">
+      <div class="container">
+        <div class="carousel-caption">
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <form class="col-12" id="searchForm" style="text-align: center; color:white">
+    <div class="form-group col-4">
+    
+	<?php
+	if(isset($_SESSION['username'])){
+		echo "<h4>Welcome Back </h4>".$_SESSION['role']." ".$_SESSION['username'];
+ 		echo "<br>";
+  		echo "<a href='logout.php'><span>Logout</span></a>";
+  		echo "<br>";
+  		echo "<br>";
+  		echo "<br>";
+  	} else {
+  		echo "<h2 class='techguru'>音楽図書館</h2>";
+  	
+  		echo "<a href='login2.php'>Log In</a><br><a href='register.php'>Register</a><br>";
+  		}
+  	?>
+	
+	<br>
+      <div class="searchbar" style="">
+      	  <input type="text" name="search" placeholder="Search.." style="height: 40px;">
+      </div>
+    </div>
+  </form>
+  
+
+<!-- /.carousel -->
+	</div>
+
+</div> <!-- End of Section -->
+
+<!--  Footer 1 -->
+<div class="row footer-1">
+	<div class="col-12">
+		<h3>Footer</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+	</div>
+</div>
+
+<!--  Footer 2 -->
+<div class="row footer-2">
+	<div class="col-12">
+		<p>Lorem Ipsum</p>
+	</div>
+</div>
+<!-- End of Foooter -->
+</div> <!-- End of Container -->
+
+<!-- JS -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+
+<script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+
+<script type="text/javascript">
+$('#myCarousel').carousel({
+  interval: 3000,
+  cycle: true
+}); 
+	
+</script>
+
+<!-- JS -->
+
+</body>
+</html>
